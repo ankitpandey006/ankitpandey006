@@ -66,5 +66,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpandey006&"
         alt="ankitpandey006" /></p>
-
-(https://holopin.me/ankitpandey006)](https://holopin.io/@ankitpandey006)
+[![An image of @ankitpandey006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitpandey006)](https://holopin.io/@ankitpandey006)
