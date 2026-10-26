@@ -4,8 +4,6 @@
 
 # 👋 Hi, I'm Ankit Pandey
 
-### Full Stack Developer • Data Analyst • Competitive Programmer
-
 <p>
   <a href="https://github.com/ankitpandey006">
     <img src="https://img.shields.io/badge/GitHub-ankitpandey006-181717?style=for-the-badge&logo=github&logoColor=white" />
